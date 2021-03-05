@@ -51,7 +51,7 @@ public class Main {
         int num1 = Integer.parseInt(str[0]);
         int num2 = Integer.parseInt(str[1]);
 
-        m.divisor(num1, num2);
+        m.divisor(num1, num2); 
     }
 }
 
